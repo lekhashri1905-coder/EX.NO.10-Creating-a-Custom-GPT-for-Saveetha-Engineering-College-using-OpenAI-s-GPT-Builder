@@ -1,6 +1,13 @@
 # EX.NO.10-Creating-a-Custom-GPT-for-Saveetha-Engineering-College-using-OpenAI-s-GPT-Builder
 ## AIM
 To understand the concept of a Custom GPT and to design, build, configure, and publish a Custom GPT chatbot for Saveetha Engineering College (www.saveetha.ac.in) using OpenAI's GPT Builder, so that it can answer student and visitor questions about the college's courses, admissions, fees, facilities, and placements.
+# OBJECTIVES
+
+.To understand the concept and working of Custom GPTs.
+.To create a college-specific AI assistant using GPT Builder.
+.To provide quick and consistent information about courses, admissions, facilities and placements.
+.To test the GPT using different student queries.
+.To understand how Knowledge files, Instructions and Capabilities improve GPT responses.
 ## WHAT IS A CUSTOM GPT?
 A Custom GPT is a personalised version of ChatGPT that can be built without writing any code. It is created by giving the GPT Builder three things: a name, a set of Instructions that describe how it should behave, and (optionally) reference files called Knowledge that it reads before answering. Once published, the Custom GPT behaves like a specialised chatbot — for example, a “Saveetha Engineering College Assistant” that always answers using the college's own information instead of general internet knowledge.
 ### TOOLS REQUIRED
